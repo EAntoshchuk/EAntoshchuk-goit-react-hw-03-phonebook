@@ -79,7 +79,7 @@ class App extends Component {
             fontSize: '35px',
           }}
         >
-          React-hw-02-Phonebook
+          React-hw-03-Phonebook
         </div>
         <div
           style={{
