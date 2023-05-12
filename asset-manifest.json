@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EAntoshchuk-goit-react-hw-03-phonebook/static/css/main.199dc720.css",
+    "main.js": "/EAntoshchuk-goit-react-hw-03-phonebook/static/js/main.d19cac12.js",
+    "index.html": "/EAntoshchuk-goit-react-hw-03-phonebook/index.html",
+    "main.199dc720.css.map": "/EAntoshchuk-goit-react-hw-03-phonebook/static/css/main.199dc720.css.map",
+    "main.d19cac12.js.map": "/EAntoshchuk-goit-react-hw-03-phonebook/static/js/main.d19cac12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.199dc720.css",
+    "static/js/main.d19cac12.js"
+  ]
+}
